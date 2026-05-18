@@ -50,7 +50,6 @@ Credentials are saved to `data.json` in the project directory in this format:
 ## Project Structure
 
 ```
-Day 29/
 ├── main.py       # Application entry point
 ├── logo.png      # App logo displayed in the UI
 ├── data.json     # Auto-created on first save
